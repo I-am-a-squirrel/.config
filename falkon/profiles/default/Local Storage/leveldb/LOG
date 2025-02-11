@@ -1,0 +1,20 @@
+2025/02/11-11:44:01.541 9f9 Reusing MANIFEST /home/squirrel/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2025/02/11-11:44:01.559 9f9 Recovering log #66
+2025/02/11-11:44:01.561 9f9 Reusing old log /home/squirrel/.config/falkon/profiles/default/Local Storage/leveldb/000066.log 
+2025/02/11-12:04:13.465 a01 Level-0 table #70: started
+2025/02/11-12:04:13.542 a01 Level-0 table #70: 22996 bytes OK
+2025/02/11-12:04:13.551 a01 Delete type=0 #66
+2025/02/11-12:07:28.395 a01 Level-0 table #72: started
+2025/02/11-12:07:28.473 a01 Level-0 table #72: 24792 bytes OK
+2025/02/11-12:07:28.481 a01 Delete type=0 #69
+2025/02/11-12:07:28.482 a01 Compacting 4@0 + 2@1 files
+2025/02/11-12:07:28.506 a01 Generated table #73@0: 176 keys, 2214483 bytes
+2025/02/11-12:07:28.515 a01 Generated table #74@0: 55 keys, 200188 bytes
+2025/02/11-12:07:28.515 a01 Compacted 4@0 + 2@1 files => 2414671 bytes
+2025/02/11-12:07:28.521 a01 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/02/11-12:07:28.522 a01 Delete type=2 #54
+2025/02/11-12:07:28.522 a01 Delete type=2 #63
+2025/02/11-12:07:28.523 a01 Delete type=2 #65
+2025/02/11-12:07:28.523 a01 Delete type=2 #67
+2025/02/11-12:07:28.523 a01 Delete type=2 #70
+2025/02/11-12:07:28.523 a01 Delete type=2 #72

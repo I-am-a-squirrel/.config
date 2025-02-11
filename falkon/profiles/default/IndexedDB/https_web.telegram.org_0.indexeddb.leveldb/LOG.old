@@ -1,0 +1,7 @@
+2025/02/10-19:34:20.969 4534 Reusing MANIFEST /home/squirrel/.config/falkon/profiles/default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/10-19:34:20.970 4534 Recovering log #3
+2025/02/10-19:34:20.973 4534 Reusing old log /home/squirrel/.config/falkon/profiles/default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000003.log 
+2025/02/10-19:59:16.553 4534 Level-0 table #5: started
+2025/02/10-19:59:16.561 4534 Level-0 table #5: 124161 bytes OK
+2025/02/10-19:59:16.569 4534 Delete type=0 #3
+2025/02/10-19:59:16.570 4534 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
